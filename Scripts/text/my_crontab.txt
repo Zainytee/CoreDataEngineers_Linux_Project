@@ -1,0 +1,4 @@
+MAILTO="omotolazainab794@gmail.com"
+0 0 * * * /mnt/c/Users/zaina/Documents/Core_Data_Engineering/Linux_Project/ETL_Process.sh >> /mnt/c/Users/zaina/Documents/Core_Data_Engineering/Linux_Project/ETL_log.txt 2>&1
+
+
